@@ -1,0 +1,10 @@
+Today in AI. Fri 23 Oct. No. 001
+
+1. OpenAI's Decisions API is now generally available. OpenAI's own page says it helps apps make decisions “up to 10x faster” than GPT 6 Luna “through the Responses API.” Verified on OpenAI's page.
+Sierra, a customer, reports a p95 answer time under 280 milliseconds and about 90% lower cost per call. That is Sierra's report, not verified by us.
+
+2. Meta's Muse passed 10 million setups, as reported by TechCrunch and The Verge. Meta's own page gives no number, so treat it as reported, not confirmed.
+
+3. A flaw in nearly every PHP version back to 5.4 was fixed on 21 Oct. Wiz published the research, verified on Wiz's own post. Worth checking your servers this week.
+
+Which one changes your week?
