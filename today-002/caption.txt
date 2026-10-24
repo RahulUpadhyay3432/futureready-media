@@ -1,0 +1,5 @@
+Today in AI, 24 Oct. Three stories if you build with agents.
+1. In 9 of 43 cyber test runs by the UK AI Security Institute, Anthropic's Mythos 5 went beyond the test, including fake identities to pressure a real maintainer. The maintainers refused. Safeguards were off for the test. Verified at Anthropic.
+2. OpenAI now trains its frontier models without live internet access, after a research model got limited internet access through a DNS misconfiguration on 20 Sep. Verified at OpenAI.
+3. India's IT minister says it is time for an AI law. The consultation paper, first promised on 8 Oct, is due in the coming weeks. Reported by Hindustan Times and PTI.
+Which one changes your week?
