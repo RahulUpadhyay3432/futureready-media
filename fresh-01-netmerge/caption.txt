@@ -1,0 +1,13 @@
+FRESH FIND: net-merge
+WiFi slow? Add your mobile data on top.
+net-merge uses all your internet connections at the same time: WiFi, Ethernet and phone hotspots, added up. It is free and open source (MIT), on Windows, macOS and Linux, and on Android in beta.
+In the developer's own test, three connections together reached up to 303 Mbit/s, against about 121 Mbit/s for the fastest one alone.
+Install on Windows (PowerShell):
+irm https://raw.githubusercontent.com/rohit267/net-merge/main/install.ps1 | iex
+You can read install.ps1 on GitHub before you run it.
+The catch, in the README's words: "one big file from one connection does not get faster". It helps when an app opens many connections: game downloads, browsers, system updates.
+On Android, mobile data stays on while it runs, so keep an eye on your data plan.
+Out since 12 Oct 2026, over 2,100 stars on GitHub on 25 Oct. Everything here was checked at the source that day.
+github.com/rohit267/net-merge
+Would you add your phone's data?
+Next fresh find: ears for coding agents.
