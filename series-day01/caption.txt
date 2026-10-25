@@ -1,0 +1,12 @@
+30 Days of AI Tools, Day 01: Crawl4AI
+For agent builders, Crawl4AI turns any website into clean Markdown.
+In its own words: "Crawl4AI turns any website into clean, LLM-ready Markdown for RAG, AI agents and data pipelines."
+Try it:
+1. pip install -U crawl4ai
+2. crawl4ai-setup
+3. crwl https://news.ycombinator.com -o markdown
+Its README says you can run it yourself "free forever"; the hosted cloud needs a key.
+Licence: Apache 2.0. 86,140 stars on GitHub on 24 Oct 2026. Everything here was checked at the source that day.
+https://github.com/unclecode/crawl4ai
+Which site would you feed your agent first?
+Day 02 tomorrow: GitHub MCP Server
