@@ -1,0 +1,17 @@
+Scan a room with an iPhone and rebuild it in 3D with an AI coding agent.
+
+3D Model Anything by Wes Bos (21 Oct 2026):
+• capture the room's geometry and photos with the iPhone app
+• rebuild it with a coding agent and the included scan-to-threejs skill
+• explore an editable Three.js scene in your browser
+
+Try the demo without a phone: wesbos.github.io/3d-model-anything
+
+The catch: scanning needs a LiDAR iPhone or iPad. The app is not on the App Store yet, so you build it with Xcode. The README calls it an iterative workflow, not a one click converter, and it focuses on rooms and interiors.
+
+MIT licence (its data folder and one image sit under a separate assets licence). 2,003 stars on GitHub on 26 Oct.
+github.com/wesbos/3d-model-anything
+
+Which room would you scan first?
+
+#threejs #AI #iPhone
