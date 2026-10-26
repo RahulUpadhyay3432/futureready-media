@@ -1,0 +1,17 @@
+13 free Claude skills for your Instagram, in one MIT repo.
+
+instagram-agent-skill (13 Sep 2026):
+• /ig-reel: three hooks from 26 formulas, scored, then a timed script
+• /ig-caption: shows the first 125 characters the feed shows
+• /ig-carousel, /ig-plan, /ig-profile and more: 13 commands in all
+• five Python tools run on your machine, with no network
+
+The catch: it drafts, you post ("Nothing gets posted until you say yes"). Its humanizer cleans AI tells from a draft; it does not change who wrote it, so follow each platform's rules on AI content. In a plain chat you lose the five Python tools (the README says so); Claude Code runs them.
+
+Install: paste github.com/Jakeschincariol/instagram-agent-skill into Claude and ask it to install the skill.
+
+Free, MIT. 2,994 stars on GitHub on 26 Oct.
+
+Checked at the source. We have not run it.
+
+#ClaudeCode #Instagram #AI
