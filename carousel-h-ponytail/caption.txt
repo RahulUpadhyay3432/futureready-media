@@ -1,0 +1,20 @@
+Your AI agent writes too much code? Ponytail is one prompt that makes it reuse what is already there.
+
+The README's example: you ask for a date picker. Without it, the agent writes 335 lines (a library, or a calendar by hand). With it, 10 lines: the repo's Input plus the browser's own date picker.
+
+What it does:
+• reads the code first, then reuses what exists
+• writes only what the task needs, but never cuts validation, error handling, security or accessibility
+• leaves one small test for logic with a branch, a loop, money or security
+• ends each reply with what it skipped or did not check
+
+The makers' benchmark (Claude Code, 39 tasks, Opus 5.5, 5 runs each, vs no skill): 53% less code, 45% fewer tokens, 41% less time, 26% lower cost.
+
+The catch: the author ran the benchmark, in Claude Code only. Safety stayed level, not better (hidden checks 96.7% with it, 95.6% without), and where a test existed, the plain agent's tests caught more injected bugs (77% vs 69%). Install only from DietrichGebert/ponytail on GitHub or @dietrichgebert/ponytail on npm.
+
+Free, MIT. 176,624 stars on GitHub on 26 Oct. Out since June 2026.
+github.com/DietrichGebert/ponytail
+
+Checked at the source. We have not tested it ourselves.
+
+#ClaudeCode #AIagents #coding
