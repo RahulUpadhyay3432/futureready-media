@@ -1,0 +1,20 @@
+Disk too full to unzip a big file? A free tool from 21 Oct 2026 unpacks archives in place.
+
+The project's own example: a 180 GB download that unpacks to 200 GB needs 380 GB free with WinRAR, 7-Zip or unzip. HatchZip needs a little over 200 GB.
+
+How it does it:
+• checks the files will fit before it changes anything
+• extracts one part at a time, from the end for most formats
+• frees each finished part, so that space is reused
+• stopped or crashed, it picks up where it left off
+
+Opens ZIP, 7z, RAR, tar and split archives on Windows, macOS and Linux.
+
+The catch: the archive is used up as it extracts (choose Extract here (keep archive) to keep it when there is room). A 7z packed as one solid block saves no space. It is not code signed yet, so Windows may warn you. Download only from GitHub or hatchzip.dev.
+
+Free and open source (MIT or Apache 2.0). 1,994 stars on GitHub on 26 Oct.
+github.com/xevrion/hatchzip
+
+Checked at the source. We have not tested it ourselves.
+
+#opensource #windows #productivity
