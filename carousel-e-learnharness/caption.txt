@@ -1,0 +1,18 @@
+An AI tutor that starts from what you already know.
+
+LearnHarness (16 Oct 2026) teaches in four steps:
+• Measure where your understanding ends
+• Plan a map from there to your goal
+• Teach one reasoning step at a time
+• Practice with varied problems in separate sessions
+
+It keeps a knowledge graph of what you learnt, so the next session does not start from scratch.
+
+The catch: bring your own AI key. The app is free, but you pay your provider (OpenAI, Anthropic, Google, DeepSeek, OpenRouter and more) for usage, and a live meter shows the cost. Your data is stored on your machine, but model requests still go to your provider.
+
+Free and open source (AGPL 3.0). 1,914 stars on GitHub on 26 Oct.
+github.com/amosblomqvist/learnharness
+
+What would you learn with it first?
+
+#AI #learning #opensource
