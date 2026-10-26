@@ -1,0 +1,18 @@
+An open AI image model built for text in pictures.
+
+MOSS-Image from OpenMOSS (16 Oct 2026), in its makers' words:
+• clear, accurate text inside images
+• layout control
+• prompts up to 4K tokens
+• anime and photorealistic styles
+• a compact 5B backbone that is easy to fine tune
+
+Open weights (Base and SFT) on Hugging Face under Apache 2.0, with day 0 support in ComfyUI, SGLang and vLLM-Omni.
+
+The catch: these are the makers' claims; we have not generated an image with it. The official README lists community LoRAs that reduce vertical colour banding in the SFT model, and the SFT model card does not state the GPU memory needed.
+
+github.com/OpenMOSS/MOSS-Image
+
+What would you make with it?
+
+#AI #opensource #generativeAI
