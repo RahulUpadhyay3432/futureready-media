@@ -1,0 +1,17 @@
+Ads on your TV's home screen? A repo from 17 Oct 2026 turns them off.
+
+What cleanyourtv does:
+• backs up your TV's app list and settings
+• disables the maker's ad services, telemetry and content rows (nothing is uninstalled)
+• installs a small launcher as your new home screen
+
+Works on Android TV and Google TV. Fire TV gets the cleanup only (not the 2015 Fire TV Box). Samsung and LG run different systems.
+
+The catch: you switch on USB debugging (the project says turn it off when you're done), and the phone app is made by a different developer. At your own risk: the project says changing a TV's software may affect its warranty or support. Changed your mind? The README promises "a one-line restore", since nothing is uninstalled.
+
+Free and open source (MIT). 36,575 stars on GitHub on 26 Oct.
+github.com/Gathin23/cleanyourtv
+
+Checked at the source. We have not tested it on a TV. The before and after on slide 1 is an illustration.
+
+#AndroidTV #GoogleTV #opensource
